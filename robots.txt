@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /favicon.ico
+Allow: /apple-touch-icon.png
+
+# Sitemap
+Sitemap: https://www.wotti.co.il/sitemap.xml
